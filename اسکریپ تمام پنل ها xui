@@ -1,0 +1,10 @@
+اسکریپت آپدیت و آپگرید سرور مجازی
+apt update && apt upgrade -y && sudo apt-get update -y && sudo apt-get upgrade -y && sudo apt install curl -y
+اسکریپت پنل سنایی
+bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)
+اسکریپت پنل علیرضا
+bash <(curl -Ls https://raw.githubusercontent.com/alireza0/x-ui/master/install.sh)
+اسکریپت پنل کافکا
+bash <(curl -Ls https://raw.githubusercontent.com/FranzKafkaYu/x-ui/master/install_en.sh) اسکریپت پنل
+اسکریپت پنل مرزبان
+sudo bash -c "$(curl -sL https://github.com/Gozargah/Marzban-scripts/raw/master/marzban.sh)" @ install
